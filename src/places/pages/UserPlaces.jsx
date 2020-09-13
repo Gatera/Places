@@ -18,14 +18,14 @@ const dummyPlaces = [
   },
   {
     id: "p2",
-    title: "Kigali Convention Center",
-    description: "The best building in Rwanda",
+    title: "Kigali Heights",
+    description: "The best mall in Rwanda",
     imageURL:
-      "https://www.newtimes.co.rw/sites/default/files/styles/mystyle/public/main/articles/2018/09/21/radisson.jpg",
-    address: "KG 2 Roundabout, Kigali",
+      "https://www.kigaliheights.com/wp-content/uploads/2013/10/5-600x360.jpg",
+    address: "KG 7 Ave, Kigali",
     location: {
-      lat: -1.9545556,
-      lng: 30.0916647,
+      lat: -1.9534834,
+      lng: 30.0964293,
     },
     creator: "u2",
   },
